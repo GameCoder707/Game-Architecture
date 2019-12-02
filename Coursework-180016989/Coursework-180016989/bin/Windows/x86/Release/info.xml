@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SaveInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PlayerHealth>100</PlayerHealth>
+  <PlayerMagic>50</PlayerMagic>
+  <MinutesPlayed>0</MinutesPlayed>
+  <SecondsPlayed>0</SecondsPlayed>
+  <SpellsFired>0</SpellsFired>
+  <SpellsHit>0</SpellsHit>
+  <BossName>BlackFog</BossName>
+  <BossHealth>500</BossHealth>
+</SaveInfo>

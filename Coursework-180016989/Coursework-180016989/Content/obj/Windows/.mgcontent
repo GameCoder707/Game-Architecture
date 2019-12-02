@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/Manikandan/Documents/Games Architecture/Coursework-180016989/Coursework-180016989/Content/Audio/shockwave_pound.wav</File>
+    <File>D:/Manikandan/Documents/Games Architecture/Coursework-180016989/Coursework-180016989/Content/Audio/spell_cast.wav</File>
+    <File>D:/Manikandan/Documents/Games Architecture/Coursework-180016989/Coursework-180016989/Content/Fonts/gameFont.spritefont</File>
+    <File>D:/Manikandan/Documents/Games Architecture/Coursework-180016989/Coursework-180016989/Content/Graphics/Boss/BlackFogDying.png</File>
+    <File>D:/Manikandan/Documents/Games Architecture/Coursework-180016989/Coursework-180016989/Content/Graphics/Boss/BlackFogFalling.png</File>
+    <File>D:/Manikandan/Documents/Games Architecture/Coursework-180016989/Coursework-180016989/Content/Graphics/Boss/BlackFogIdle.png</File>
+    <File>D:/Manikandan/Documents/Games Architecture/Coursework-180016989/Coursework-180016989/Content/Graphics/Boss/BlackFogRunning.png</File>
+    <File>D:/Manikandan/Documents/Games Architecture/Coursework-180016989/Coursework-180016989/Content/Graphics/Boss/SwampCryDying.png</File>
+    <File>D:/Manikandan/Documents/Games Architecture/Coursework-180016989/Coursework-180016989/Content/Graphics/Boss/SwampCryFalling.png</File>
+    <File>D:/Manikandan/Documents/Games Architecture/Coursework-180016989/Coursework-180016989/Content/Graphics/Boss/SwampCryIdle.png</File>
+    <File>D:/Manikandan/Documents/Games Architecture/Coursework-180016989/Coursework-180016989/Content/Graphics/Boss/SwampCryRunning.png</File>
+    <File>D:/Manikandan/Documents/Games Architecture/Coursework-180016989/Coursework-180016989/Content/Graphics/Boss/SwampCryThrowing.png</File>
+    <File>D:/Manikandan/Documents/Games Architecture/Coursework-180016989/Coursework-180016989/Content/Graphics/Boss/Weapons/SlashFX.png</File>
+    <File>D:/Manikandan/Documents/Games Architecture/Coursework-180016989/Coursework-180016989/Content/Graphics/Boss/Weapons/SmallSword.png</File>
+    <File>D:/Manikandan/Documents/Games Architecture/Coursework-180016989/Coursework-180016989/Content/Graphics/Boss/Weapons/SwampCryClub.png</File>
+    <File>D:/Manikandan/Documents/Games Architecture/Coursework-180016989/Coursework-180016989/Content/Graphics/Boss/Weapons/SwampCrySpell.png</File>
+    <File>D:/Manikandan/Documents/Games Architecture/Coursework-180016989/Coursework-180016989/Content/Graphics/Player/VioletWizardDying.png</File>
+    <File>D:/Manikandan/Documents/Games Architecture/Coursework-180016989/Coursework-180016989/Content/Graphics/Player/VioletWizardIdle.png</File>
+    <File>D:/Manikandan/Documents/Games Architecture/Coursework-180016989/Coursework-180016989/Content/Graphics/Player/VioletWizardJump.png</File>
+    <File>D:/Manikandan/Documents/Games Architecture/Coursework-180016989/Coursework-180016989/Content/Graphics/Player/VioletWizardRun.png</File>
+    <File>D:/Manikandan/Documents/Games Architecture/Coursework-180016989/Coursework-180016989/Content/Graphics/Player/Weapons/Fireball.png</File>
+    <File>D:/Manikandan/Documents/Games Architecture/Coursework-180016989/Coursework-180016989/Content/Graphics/Player/Weapons/Iceball.png</File>
+    <File>D:/Manikandan/Documents/Games Architecture/Coursework-180016989/Coursework-180016989/Content/Graphics/Player/Weapons/Powerball.png</File>
+    <File>D:/Manikandan/Documents/Games Architecture/Coursework-180016989/Coursework-180016989/Content/Graphics/UI/bar_outline.png</File>
+    <File>D:/Manikandan/Documents/Games Architecture/Coursework-180016989/Coursework-180016989/Content/Graphics/UI/custom-cursor.png</File>
+    <File>D:/Manikandan/Documents/Games Architecture/Coursework-180016989/Coursework-180016989/Content/Graphics/UI/enemy_bar_outline.png</File>
+    <File>D:/Manikandan/Documents/Games Architecture/Coursework-180016989/Coursework-180016989/Content/Graphics/UI/enemy_health_bar.png</File>
+    <File>D:/Manikandan/Documents/Games Architecture/Coursework-180016989/Coursework-180016989/Content/Graphics/UI/Fire-Logo.png</File>
+    <File>D:/Manikandan/Documents/Games Architecture/Coursework-180016989/Coursework-180016989/Content/Graphics/UI/health_bar.png</File>
+    <File>D:/Manikandan/Documents/Games Architecture/Coursework-180016989/Coursework-180016989/Content/Graphics/UI/Ice-Logo.png</File>
+    <File>D:/Manikandan/Documents/Games Architecture/Coursework-180016989/Coursework-180016989/Content/Graphics/UI/mana_bar.png</File>
+    <File>D:/Manikandan/Documents/Games Architecture/Coursework-180016989/Coursework-180016989/Content/Graphics/UI/Power-Logo.png</File>
+    <File>D:/Manikandan/Documents/Games Architecture/Coursework-180016989/Coursework-180016989/Content/Graphics/World/clouds_1.png</File>
+    <File>D:/Manikandan/Documents/Games Architecture/Coursework-180016989/Coursework-180016989/Content/Graphics/World/clouds_2.png</File>
+    <File>D:/Manikandan/Documents/Games Architecture/Coursework-180016989/Coursework-180016989/Content/Graphics/World/clouds_3.png</File>
+    <File>D:/Manikandan/Documents/Games Architecture/Coursework-180016989/Coursework-180016989/Content/Graphics/World/clouds_4.png</File>
+    <File>D:/Manikandan/Documents/Games Architecture/Coursework-180016989/Coursework-180016989/Content/Graphics/World/Ground.png</File>
+    <File>D:/Manikandan/Documents/Games Architecture/Coursework-180016989/Coursework-180016989/Content/Graphics/World/health pickup.png</File>
+    <File>D:/Manikandan/Documents/Games Architecture/Coursework-180016989/Coursework-180016989/Content/Graphics/World/mana pickup.png</File>
+    <File>D:/Manikandan/Documents/Games Architecture/Coursework-180016989/Coursework-180016989/Content/Graphics/World/Mountain Background.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

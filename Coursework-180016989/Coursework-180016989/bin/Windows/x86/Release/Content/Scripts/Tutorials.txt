@@ -1,0 +1,10 @@
+Press Space to Play in Normal Mode!!
+Press Enter to Play in Hardcore Mode!!
+Press A/D to Move!
+Press Space to Jump!
+Press LShift/Right Mouse Button to Dash!
+Press 1/2/3 to Switch Spells!
+Use Mouse to Aim
+Press Left Mouse Button to Fire Spell!
+Collect Red Bubbles to Refill Health!
+Collect Blue Bubbles to Refill Magic!

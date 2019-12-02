@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<GameInfo>
+  <EnemyInfo>
+    <Health>1500</Health>
+  </EnemyInfo>
+  <PlayerInfo>
+    <Health>100</Health>
+    <Magic>50</Magic>
+  </PlayerInfo>
+</GameInfo>
+

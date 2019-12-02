@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>D:/Manikandan/Documents/Games Architecture/Coursework-180016989/Coursework-180016989/Content/Fonts/gameFont.spritefont</SourceFile>
+  <SourceTime>2019-04-01T15:45:59.1423944+01:00</SourceTime>
+  <DestFile>D:/Manikandan/Documents/Games Architecture/Coursework-180016989/Coursework-180016989/Content/bin/Windows/Fonts/gameFont.xnb</DestFile>
+  <DestTime>2019-04-01T15:54:48.1430048+01:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2018-12-08T16:35:54+00:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2018-12-08T16:35:54+00:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
